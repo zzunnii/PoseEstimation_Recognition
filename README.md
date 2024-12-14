@@ -4,6 +4,19 @@
 
 ---
 
+## 실행 영상
+### 1. One Person Example
+아래는 한 명의 사람이 다양한 자세를 취할 때의 분석 결과입니다:
+
+<video src="result_video/one_man.mp4" controls width="600"></video>
+
+### 2. Multiple People Example
+아래는 여러 명이 포함된 영상에서 자세를 분석하는 결과입니다:
+
+<video src="result_video/people.mp4" controls width="600"></video>
+
+---
+
 ## 목차
 1. [프로젝트 개요](#프로젝트-개요)
 2. [시스템 구조](#시스템-구조)
@@ -126,5 +139,7 @@
 
 ## 라이선스
 이 프로젝트는 MIT 라이선스에 따라 오픈 소스로 제공됩니다.
+
+---
 
 이 README는 OpenAI의 ChatGPT에 의해 작성되었습니다.
