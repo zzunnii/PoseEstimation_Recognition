@@ -5,15 +5,12 @@
 ---
 
 ## 실행 영상
-### 1. One Person Example
-아래는 한 명의 사람이 다양한 자세를 취할 때의 분석 결과입니다:
 
-<video src="result_video/one_man.mp4" controls width="600"></video>
+### 1. One Person Example
+[one_man.mp4 실행 영상 보기](result_video/one_man.mp4)
 
 ### 2. Multiple People Example
-아래는 여러 명이 포함된 영상에서 자세를 분석하는 결과입니다:
-
-<video src="result_video/people.mp4" controls width="600"></video>
+[people.mp4 실행 영상 보기](result_video/people.mp4)
 
 ---
 
