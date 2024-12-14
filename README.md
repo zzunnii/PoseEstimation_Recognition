@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/da27bbc3-3415-4bf6-af7b-5a99c18d2d30
 # 인체 키포인트 기반 자세 인식 시스템
 
 이 프로젝트는 키포인트 추출 기술과 고급 딥러닝 모델을 활용하여 인체 자세를 추정하고 인식하는 AI 기반 시스템을 구축하는 것을 목표로 합니다. 이 시스템은 20가지의 다양한 자세를 분류하고 정확한 피드백을 제공하며, 피트니스, 스포츠 분석, 재활 등 다양한 분야에 응용될 수 있습니다.
@@ -7,12 +9,14 @@
 ## 실행 영상
 
 ### 1. One Person Example
-<video src="result_video/one_man.mp4" controls width="600"></video>
+https://github.com/user-attachments/assets/a8db16a1-3c2f-4ef7-a000-7746bca93f27
 
 ### 2. Multiple People Example
-<video src="result_video/people.mp4" controls width="600"></video>
+https://github.com/user-attachments/assets/dc424715-e653-4e33-8b15-6983eaaa69bc
 
 ---
+
+
 
 ## 목차
 1. [프로젝트 개요](#프로젝트-개요)
