@@ -7,10 +7,10 @@
 ## 실행 영상
 
 ### 1. One Person Example
-[one_man.mp4 실행 영상 보기](result_video/one_man.mp4)
+<video src="result_video/one_man.mp4" controls width="600"></video>
 
 ### 2. Multiple People Example
-[people.mp4 실행 영상 보기](result_video/people.mp4)
+<video src="result_video/people.mp4" controls width="600"></video>
 
 ---
 
